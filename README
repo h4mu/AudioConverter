@@ -1,0 +1,3 @@
+A command line application that reads an audio file,
+converts it to 22.05kHz 16 bit mono signed little endian PCM wave,
+and saves the converted audio to an output file. 
